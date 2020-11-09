@@ -1,0 +1,65 @@
+body{
+
+li{
+  list-style: circle;
+}
+
+.header{
+  color: #000000
+}
+
+.header-logo{
+  float: left;
+  font-size: 36px;
+  padding: 20px 40px;
+  background-color: #ffe4c4;
+}
+
+.header-list li{
+  float: left;
+  padding: 35px 22px;
+  background-color: #ffebcd;
+}
+
+.main{
+  padding: 100px 80px
+}
+
+.copy-container h1{
+  font-size: 60px;
+  float: right;
+}
+
+.copy-container h2{
+  font-size: 40px;
+  float: right;
+}
+
+.copy-container span{
+  color: #f08080
+}
+
+.section-title{
+  border-bottom: 2px solid #dee7ec;
+  font-size: 28px;
+  padding-bottom: 15px;
+  margin-bottom: 50px
+}
+
+.contact-form{
+  padding-top: 100px;
+}
+
+input, textarea{
+  width: 400px;
+  margin-top: 10px;
+  margin-bottom: 30px;
+  padding: 20px;
+  font-size: 18px
+  border: 1px solid #dee7ec;
+}
+
+.contact-submit{
+  background-color: #dee7ec;
+  color: #889eab;
+}
